@@ -9,6 +9,4 @@ function modificar($pu1,$pu2,$pu3,$pu4,$pu5){
 echo "Aqui va a modificar";
 }
 
-
-
  ?>
